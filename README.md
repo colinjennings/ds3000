@@ -6,7 +6,6 @@ DS3000 Stock Volatility or Sh*tcoin group
 
 Check shitcoin value
 
-
 ### Contribution Instructions:
 
 0. Clone the repository and cd into it (only need to do this the first time):
@@ -31,24 +30,30 @@ Check shitcoin value
 
    Code up a new feature.
 
-3. When done, add all changes and commit:
+   Tip: Forgot what branch you are on? Type:
+   ``` bash
+   git status
+   ```
+   to see what the current branch is.
+
+4. When done, add all changes and commit:
 
    ```bash
    git add .
    git commit -m "Some descriptive message"
    ```
 
-4. Push your branch to GitHub (don't push to main please!):
+5. Push your branch to GitHub (don't push to main please!):
 
    ```bash
    git push origin some-new-feature
    ```
 
-5. Create a pull request on the GitHub website:
+6. Create a pull request on the GitHub website:
 
    - Click **"New Pull Request"** and select your branch.  
    - Briefly explain the changes.
 
-6. Wait for someone to merge it, or merge it yourself. See if I care!  
+7. Wait for someone to merge it, or merge it yourself. See if I care!  
 
    Old branch will be automatically deleted.
